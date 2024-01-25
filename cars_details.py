@@ -1,4 +1,4 @@
-# Scraping information about Porsche Cars:
+# Scraping information about Porsche Cars :
 
 import requests
 from bs4 import BeautifulSoup as bs
